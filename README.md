@@ -474,7 +474,7 @@ And finally, by embarking on this journey, you are now a "Security Researcher", 
 ## Fuzzing & Stateful Fuzzing (This might be new)
   - Fuzz tests
   - Stateless Fuzzing
-  - Stateful fuzzing 
+  - [Stateful fuzzing](https://patrickalphac.medium.com/fuzz-invariant-tests-the-new-bare-minimum-for-smart-contract-security-87ebe150e88c) 
   - Invariants
     - [Video](https://www.youtube.com/watch?v=juyY-CTolac)
 ## Common EIPs/ERCs
